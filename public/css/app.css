@@ -10,7 +10,9 @@ body {
     gap: 1rem;
     #result {
         background-color: #CCD9F3;
-        width: 5rem;
+        width: auto;
+        margin: 0;
+        padding: 1rem;
         text-align: center;
 
     }
